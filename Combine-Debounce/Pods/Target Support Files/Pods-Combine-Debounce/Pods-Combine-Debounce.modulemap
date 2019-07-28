@@ -1,0 +1,6 @@
+framework module Pods_Combine_Debounce {
+  umbrella header "Pods-Combine-Debounce-umbrella.h"
+
+  export *
+  module * { export * }
+}
